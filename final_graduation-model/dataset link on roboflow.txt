@@ -1,0 +1,6 @@
+# Fish_Diseases_classification > 2024-01-17 3:56pm
+https://universe.roboflow.com/saia-tbbth/fish_diseases_classification
+
+Provided by a Roboflow user
+License: CC BY 4.0
+
